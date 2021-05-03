@@ -9,5 +9,7 @@ or download ZIP folder.
 type in terminal to run:
 
 'npm i'
+
 'npm start'
+
  open 'localhost:3000'
